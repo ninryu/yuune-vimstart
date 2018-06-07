@@ -1,0 +1,40 @@
+﻿{
+  "greeting_text": "おかえり！",
+  "background": "#171928",
+  "foreground": "#c7b7c7",
+  "search_engine": "https://www.google.co.id/search?q=",
+  "favourites": [
+    {
+      "key": ":tt",
+      "url": "https://twitter.com/"
+    },
+    {
+      "key": ":yt",
+      "url": "http://youtu.be"
+    },
+    {
+      "key": ":sc",
+      "url": "https://soundcloud.com"
+    },
+    {
+      "key": ":tm",
+      "url": "https://www.tumblr.com"
+    },
+    {
+      "key": ":at",
+      "url": "https://animetosho.org"
+    },
+    {
+      "key": ":db",
+      "url": "https://danbooru.donmai.us"
+    },
+    {
+      "key": ":px",
+      "url": "https://www.pixiv.net"
+    },
+    {
+      "key": ":da",
+      "url": "https://ninryu.deviantart.com/"
+    }
+  ]
+}
