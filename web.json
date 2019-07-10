@@ -2,7 +2,7 @@
   "greeting_text": "おかえり！",
   "background": "#171928",
   "foreground": "#c7b7c7",
-  "search_engine": "https://duckduckgo.com/?q",
+  "search_engine": "https://duckduckgo.com/?q=",
   "favourites": [
     {
       "key": ":tt",
