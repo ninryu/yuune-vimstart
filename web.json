@@ -10,23 +10,23 @@
     },
     {
       "key": ":yt",
-      "url": "http://youtu.be"
+      "url": "https://www.youtube.com/feed/subscriptions"
     },
     {
       "key": ":sc",
       "url": "https://soundcloud.com"
     },
     {
-      "key": ":tm",
-      "url": "https://www.tumblr.com"
+      "key": ":ny",
+      "url": "https://nyaa.si/"
     },
     {
       "key": ":at",
       "url": "https://animetosho.org"
     },
     {
-      "key": ":db",
-      "url": "https://danbooru.donmai.us"
+      "key": ":md",
+      "url": "https://mangadex.org/"
     },
     {
       "key": ":px",
