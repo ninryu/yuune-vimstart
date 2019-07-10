@@ -13,8 +13,8 @@
       "url": "https://www.youtube.com/feed/subscriptions"
     },
     {
-      "key": ":sc",
-      "url": "https://soundcloud.com"
+      "key": ":dc",
+      "url": "https://discordapp.com/channels/@me"
     },
     {
       "key": ":ny",
